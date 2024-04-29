@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L2Ex1ProjetoSegundo</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="calcular">Calcular</string>
+    <string name="nao_eh_segundo">A função não é de 2º grau</string>
+    <string name="nao_possui_raizes">A função não possui raízes reais</string>
+    <string name="delta">Delta = </string>
+    <string name="x">X = </string>
+    <string name="x1">X1 = </string>
+    <string name="x2">X2 = </string>
+</resources>
